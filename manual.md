@@ -14,5 +14,5 @@ There are three entries that user need enter.
 
 The output is a Ciphertext. 
 
-![example](Example.png)
+![example](Example.PNG)
 
